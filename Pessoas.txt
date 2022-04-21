@@ -1,3 +1,0 @@
-|   Numero de Cidadao | Nome(s) Proprio(s) e Apelido(s)   | Concelho de Residencia   | Profissao   |
-|---------------------|-----------------------------------|--------------------------|-------------|
-|                  48 |                                   |                          |             |
